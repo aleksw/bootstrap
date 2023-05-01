@@ -1,2 +1,2 @@
 # bootstrap
-With grit and will, pull bootstraps tight, and face each challenge with unyielding might.
+With grit and will and bootstraps tight, face each challenge with unyielding might.
